@@ -251,7 +251,7 @@ Hello stranger! My name is Bhavya Khatri and I am a Full Stack Node Developer, p
 
 <img src="https://github-readme-stats.vercel.app/api?username=aman1722&theme=react&border_radius=4.6&show_icons=true&count_private=true&hide_border=true&show_icons=true" style="width: 40%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aman1722&theme=react&border_radius=4.6&hide_border=true&layout=compact&show_icons=true" style="width: 40%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhavya022&theme=react&border_radius=4.6&hide_border=true&layout=compact&show_icons=true" style="width: 40%" />
 
 </div>
 <div align="center" style="display: flex; ">
