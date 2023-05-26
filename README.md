@@ -261,9 +261,9 @@ Hello ! My name is Bhavya Khatri and I am a Full Stack Node Developer, passionat
 </div>
 
  <h2 align="left">⚡Activity Graph:</h2>
-  <a><img alt="Bhavya Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=Bhavya022&theme=react-dark&hide_border=true"/></a>
+  <a><img alt="Mayank Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=rodeo12&theme=react-dark&hide_border=true" /></a>
 
-<br> 
+<br>
 <div align="center">
  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </div>
@@ -272,6 +272,5 @@ Hello ! My name is Bhavya Khatri and I am a Full Stack Node Developer, passionat
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Bhavya022}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{rodeo12}/count.svg" /></p>
 <br></div>
-<!-->
