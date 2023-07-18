@@ -2,8 +2,9 @@
 <h2 align="center">
   Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> , I'm Bhavya Khatri 💻! Glad to see you here!
 </h2>
-# 💫 About Me:
-Hello ! My name is Bhavya Khatri and I am a Full Stack Node Developer, passionate about building digital products that improve everyday experience for people. I love to work on exciting projects that test what I've learnt. Working with NODE stack and programming languages like JavaScript for web development as well as Backend Developer. Looking forward to some interesting and challenging opportunities.
+<br>💫 About Me:<br>
+<b>Ritik Rana<b><br><br>Introduction<br>Hello! My name is Bhavya Khatri and I am a passionate NOdejs Backend Web Developer with strong administrative and problem-solving skills. This README provides an overview of my skills, experiences, and social media profiles.<br><br>Personal Information<br>Name: Bhavya Khatri<br>Email: dnd88778@gmail.com<br>Portfolio<br>Check out my portfolio for a showcase of my projects: https://Bhavya022.github.io/<br><br>Social Media Profiles<br>Connect with me on:<br><br>LinkedIn: https://www.linkedin.com/in/Bhavya22<br><br>Programming Languages, Tools & Databases<br>Here are the technologies I'm proficient in:<br><br>⦿ HTML(Hyper Text Markup Language)<br>⦿ CSS (Cascading Style Sheets)<br>⦿ JavaScript(Programing Language)<br>⦿ Nodejs (Programing Language)<br>⦿ MySQL(DataBase)<br>⦿ MongoDB(Database)<br>⦿ Express.js<br>⦿Redis(Database)<br>⦿ Git (Tool)<br>⦿ VsCode (Tool)<br>⦿ Spring Tool Suite (Tool)
+
 <h2>Portfolio</h2>
 Check out my portfolio for a showcase of my projects: https://Bhavya022.github.io/
 ## 🌐 Socials:
