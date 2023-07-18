@@ -1,31 +1,276 @@
-
+<h2 align="center">
   Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> , I'm Bhavya Khatri 💻! Glad to see you here!
 </h2>
-<br>💫 About Me:<br>
-<bBhavya Khatri<b><br><br>Introduction<br>Hello! My name is Bhavya Khatri and I am a passionate NOdejs Backend Web Developer with strong administrative and problem-solving skills. This README provides an overview of my skills, experiences, and social media profiles.<br><br>Personal Information<br>Name: Bhavya Khatri<br>Email: dnd88778@gmail.com<br>Portfolio<br>Check out my portfolio for a showcase of my projects: https://Bhavya022.github.io/<br><br>Social Media Profiles<br>Connect with me on:<br><br>LinkedIn: https://www.linkedin.com/in/Bhavya22<br><br>Programming Languages, Tools & Databases<br>Here are the technologies I'm proficient in:<br><br>⦿ HTML(Hyper Text Markup Language)<br>⦿ CSS (Cascading Style Sheets)<br>⦿ JavaScript(Programing Language)<br>⦿ Nodejs (Programing Language)<br>⦿ MySQL(DataBase)<br>⦿ MongoDB(Database)<br>⦿ Express.js<br>⦿Redis(Database)<br>⦿ Git (Tool)<br>⦿ VsCode (Tool)<br>
+<h3 align="center">An aspiring Full-Stack Web Developer with skills in Node js Backend Devlopment.</h3>
 
-<h2>Portfolio</h2>
-Check out my portfolio for a showcase of my projects: https://Bhavya022.github.io/
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bhavya22) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Bhavya022) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Bhavya22) 
+<hr>
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Bhavya022&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Bhavya022&theme=react&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhavya022&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+Hello ! My name is Bhavya Khatri and I am a Full Stack Node Developer, passionate about building digital products that improve everyday experience for people. I love to work on exciting projects that test what I've learnt. Working with NODE stack and programming languages like JavaScript for web development as well as Backend Developer. Looking forward to some interesting and challenging opportunities.
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Bhavya022&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p align="center" color:"red">
+     <a>
+          <img src="https://readme-typing-svg.demolab.com/?lines=Hi! My self Bhavya Khatri 🏽; I am a Full-stack%20Node%20developer 🏻‍💻; Interested in Coding 🏃‍♂️♂️;Curious%20to%20learn%20new%20things !&font=Fira%20Code&center=true&width=440&height=45&color=#37bcf7&vCenter=true&size=22&pause=1000"></a>
+      </p>
+      
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Bhavya022&label=Profile%20views&color=0e75b6&style=flat" alt="bhavya022" /> </p>
+<img align="right" alt="Coding" width="400"  src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Bhavya022&limit=5&theme=dark&combine_all_yearly_contributions=true)
+- 🔭 I’m currently pursuing **Full Stack Node Development**
 
----
-[![](https://visitcount.itsvg.in/api?id=Bhavya022&icon=0&color=0)](https://visitcount.itsvg.in)
+-    Checkout my **[Resume](https://drive.google.com/file/d/1a5Q7nJGDmqI7JP7olVVRjFxbmAhAvWht/view?usp=share_link)**
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+- 🌱 I’m currently learning **NODE stack**
+
+- 👯 I’m looking to collaborate on **[LinkedIn](https://www.linkedin.com/in/bhavya-khatri-aa887a198/)**
+
+- 📫 Reach me on **dnd88778@gmail.com**
+
+- 💬 ask me about anything, i am happy to help
+
+- ⚡ Fun Fact: Imagination is more important than knowledge
+
+- 💬 Have a look at my [Portfolio](https://Bhavya022.github.io/)
+
+
+<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="85px" marginBottom="4px"> </h2>
+
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhavya-khatri-aa887a198/) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://leetcode.com/dnd88778/) [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/dnd88778/) [![!PortFolio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://Bhavya022.github.io/)
+
+<h2 align="left">⚡ Tech Stack</h2>
+<table align="center">
+  <tbody>
+    <tr valign="top">
+      <td width="25%" align="center">
+        <a style="color: black; font-weight: bold; text-decoration: none;" href="https://www.w3.org/html/">
+          <span>HTML5</span><br /><br />
+          <img
+            height="64px"
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
+          />
+        </a>
+      </td>
+        <td width="25%" align="center">
+        <a href="http://www.w3.org/TR/CSS/">
+          <span>CSS</span><br /><br />
+          <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg" />
+        </a>
+      </td>
+       <td width="25%" align="center">
+        <a href="http://expressjs.com/">
+          <span>Express</span><br /><br />
+          <img
+            height="64px"
+            src="https://cdn.svgporn.com/logos/express.svg"
+          />
+        </a>
+      </td>
+      <td width="25%" align="center">
+        <a href="http://getbootstrap.com/">
+          <span>Bootstrap</span><br /><br />
+          <img
+            height="64px"
+            src="https://cdn.svgporn.com/logos/bootstrap.svg"
+          />
+        </a>
+      </td>
+    </tr>
+<!--     <tr valign="top"> -->
+<!--       <td width="25%" align="center">
+        <a style="color: black; font-weight: bold; text-decoration: none;" href="https://en.wikipedia.org/wiki/C_(programming_language)">
+          <span>C</span><br /><br />
+          <img
+            height="64px"
+            src="https://cdn.svgporn.com/logos/c.svg"
+          />
+        </a>
+      </td> -->
+<!--       <td width="25%" align="center">
+        <a href="http://www.w3.org/TR/CSS/">
+          <span>CSS</span><br /><br />
+          <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg" />
+        </a>
+      </td> -->
+<!--       <td width="25%" align="center">
+        <a style="color: black; font-weight: bold; text-decoration: none;" href="https://www.docker.com/">
+          <span>Docker</span><br /><br />
+          <img height="64px" src="https://cdn.svgporn.com/logos/docker-icon.svg" />
+        </a>
+      </td> -->
+<!--       <td width="25%" align="center">
+        <a href="http://expressjs.com/">
+          <span>Express</span><br /><br />
+          <img
+            height="64px"
+            src="https://cdn.svgporn.com/logos/express.svg"
+          />
+        </a>
+      </td> -->
+<!--     </tr> -->
+    <tr valign="top">
+      <td width="25%" align="center">
+        <a style="color: black; font-weight: bold; text-decoration: none;" href="https://git-scm.com/">
+          <span>Git</span><br /><br />
+          <img
+            height="64px"
+            src="https://cdn.svgporn.com/logos/git-icon.svg"
+          />
+        </a>
+    </td>
+      <td width="25%" align="center">
+        <a style="color: black; font-weight: bold; text-decoration: none;" href="https://www.heroku.com/">
+          <span>Heroku</span><br /><br />
+          <img height="64px" src="https://cdn.svgporn.com/logos/heroku-icon.svg" />
+        </a>
+      </td>
+      <td width="25%" align="center">
+        <a style="color: black; font-weight: bold; text-decoration: none;" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+          <span>JavaScript</span><br /><br />
+          <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg" />
+        </a>
+      </td>
+      <td width="25%" align="center">
+        <a style="color: black; font-weight: bold; text-decoration: none;" href="https://aws.amazon.com/">
+          <span>AWS</span><br /><br />
+          <img height="64px" src="https://cdn.svgporn.com/logos/aws.svg" />
+        </a>
+      </td>
+    </tr>
+    <tr valign="top">
+        <td width="25%" align="center">
+        <a style="color: black; font-weight: bold; text-decoration: none;" href="https://www.getpostman.com/">
+          <span>Postman</span><br /><br />
+          <img
+            height="64px"
+            src="https://cdn.svgporn.com/logos/postman-icon.svg"
+          />
+        </a>
+    </td>
+    <td width="25%" align="center">
+      <a style="color: black; font-weight: bold; text-decoration: none;" href="https://www.mongodb.org/">
+        <span>MongoDB</span><br /><br />
+        <img
+          height="64px"
+          src="https://cdn.svgporn.com/logos/mongodb.svg"
+        />
+      </a>
+    </td>
+      <td width="25%" align="center">
+        <a style="color: black; font-weight: bold; text-decoration: none;" href="https://www.netlify.com/">
+          <span>Netlify</span><br /><br />
+          <img height="64px" src="https://cdn.svgporn.com/logos/netlify.svg" />
+        </a>
+      </td>
+      <td width="25%" align="center">
+        <a style="color: black; font-weight: bold; text-decoration: none;" href="https://nodejs.org/">
+          <span>Node.js</span><br /><br />
+          <img height="64px" src="https://cdn.svgporn.com/logos/nodejs.svg" />
+        </a>
+      </td>
+    </tr>
+<!--     <tr valign="top"> -->
+      <!--       <td width="25%" align="center">
+        <a style="color: black; font-weight: bold; text-decoration: none;" href="https://en.wikipedia.org/wiki/Tux_(mascot)">
+          <span>Linux</span><br /><br />
+          <img
+            height="64px"
+            src="https://cdn.svgporn.com/logos/linux-tux.svg"
+          />
+        </a>
+    </td> -->
+      <!--     <td width="25%" align="center">
+      <a style="color: black; font-weight: bold; text-decoration: none;" href="https://www.gnu.org/software/bash/">
+        <span>GNU Bash</span><br /><br />
+        <img
+          height="64px"
+          src="https://cdn.svgporn.com/logos/bash-icon.svg"
+        />
+      </a>
+    </td> -->
+<!--       <td width="25%" align="center">
+        <a style="color: black; font-weight: bold; text-decoration: none;" href="https://www.getpostman.com/">
+          <span>Postman</span><br /><br />
+          <img
+            height="64px"
+            src="https://cdn.svgporn.com/logos/postman-icon.svg"
+          />
+        </a>
+    </td> -->
+<!--     <td width="25%" align="center">
+      <a style="color: black; font-weight: bold; text-decoration: none;" href="https://facebook.github.io/react/">
+        <span>React</span><br /><br />
+        <img
+          height="64px"
+          src="https://cdn.svgporn.com/logos/react.svg"
+        />
+      </a>
+    </td> -->
+<!--       <td width="25%" align="center">
+        <a href="http://redux.js.org/">
+          <span>Redux</span><br /><br />
+          <img height="64px" src="https://cdn.svgporn.com/logos/redux.svg" />
+        </a>
+      </td> -->
+<!--       <td width="25%" align="center">
+        <a href="http://vuejs.org/">
+          <span>Vue.js</span><br /><br />
+          <img height="64px" src="https://cdn.svgporn.com/logos/vue.svg" />
+        </a>
+      </td> -->
+      <!--       <td width="25%" align="center">
+        <a style="color: black; font-weight: bold; text-decoration: none;" href="https://aws.amazon.com/">
+          <span>AWS</span><br /><br />
+          <img height="64px" src="https://cdn.svgporn.com/logos/aws.svg" />
+        </a>
+      </td> -->
+<!--       <td width="25%" align="center">
+        <a style="color: black; font-weight: bold; text-decoration: none;" href="https://babeljs.io/">
+          <span>Babel</span><br /><br />
+          <img height="64px" src="https://cdn.svgporn.com/logos/babel.svg" />
+        </a>
+      </td> -->
+<!--     </tr> -->
+  </tbody>
+</table>
+
+<br/>
+
+<!-- <div align="center">
+        <img src="https://camo.githubusercontent.com/3997f3b27a68e19c31e2d1c378d77303735faa42e7d18a8018f7510d66aaa83e/68747470733a2f2f7777772e77696e677374656368736f6c7574696f6e732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032322f30332f66756c6c2d737461636b2d646576656c6f706d656e742e676966" width="50%"/>
+ 
+</div> -->
+
+
+## 📊 My Github Stats
+
+<!-- github status  -->
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Bhavya022" alt="Bhavya Khatri" /></a> </p>
+<div align="center" style="display: flex; gap:50px">
+<!-->
+<img src="https://github-readme-stats.vercel.app/api?username=Bhavya022&theme=react&border_radius=4.6&show_icons=true&count_private=true&hide_border=true&show_icons=true" style="width: 40%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhavya022&theme=react&border_radius=4.6&hide_border=true&layout=compact&show_icons=true" style="width: 40%" />
+
+</div>
+<div align="center" style="display: flex; ">
+ 
+<img src="https://streak-stats.demolab.com?user=Bhavya022&_border=true&theme=dark&hide_border=true&theme=react" style="width: 40%" />
+
+</div>
+
+ <h2 align="left">⚡Activity Graph:</h2>
+  <a><img alt="Bhavya Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=Bhavya022&theme=react-dark&hide_border=true" /></a>
+
+<br>
+<div align="center">
+ <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+</div>
+
+<hr>
+
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Bhavya022}/count.svg" /></p>
+<br></div>
