@@ -3,7 +3,7 @@
 </h2>
 # 💫 About Me:
 Hello ! My name is Bhavya Khatri and I am a Full Stack Node Developer, passionate about building digital products that improve everyday experience for people. I love to work on exciting projects that test what I've learnt. Working with NODE stack and programming languages like JavaScript for web development as well as Backend Developer. Looking forward to some interesting and challenging opportunities.
-
+<h2>Portfolio</h2>
 Check out my portfolio for a showcase of my projects: https://Bhavya022.github.io/
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bhavya22) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Bhavya022) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Bhavya22) 
