@@ -261,7 +261,8 @@ Hello! My name is Bhavya Khatri and I am a Full Stack Node Developer, passionate
 </div>
 
  <h2 align="left">⚡Activity Graph:</h2>
-  <a><img alt="Bhavya Activity Graph" src="[![Bhavya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Bhavya022&theme=dracula)](https://Bhavya022/github-readme-activity-graph)" /></a>
+<!--   <a><img alt="Bhavya Activity Graph" src="[![Bhavya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Bhavya022&theme=dracula)](https://Bhavya022/github-readme-activity-graph)" /></a> --> 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Bhavya022&theme=dracula)](https://github.com/Bhavya022/github-readme-activity-graph)
 
 <br>
 <div align="center">
