@@ -20,7 +20,7 @@ Hello! My name is Bhavya Khatri and I am a Full Stack Node Developer, passionate
 
 - 🔭 I’m currently pursuing **Full Stack Node Development**
 
--    Checkout my **[Resume](https://drive.google.com/file/d/1a5Q7nJGDmqI7JP7olVVRjFxbmAhAvWht/view?usp=share_link)**
+-    Checkout my **[Resume](https://drive.google.com/file/d/11UzjJQLQUKHsmStlZZN6HILK5N2IW0q5/view?usp=sharing)**
 
 - 🌱 I’m currently learning **NODE stack**
 
