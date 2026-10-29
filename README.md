@@ -22,7 +22,7 @@
 
 ### 🧑‍💻 About Me
 
-Backend-focused engineer with **2.5+ years** of experience building scalable systems across **fintech, e-commerce, healthcare and AI-native products**. I design payment automation, event-driven microservices, RESTful APIs and secure auth (JWT, OAuth 2.0) on cloud-native AWS infrastructure, and I own the full stack end-to-end when a project needs it.
+Backend-focused engineer with **3+ years** of experience building scalable systems across **fintech, e-commerce, healthcare and AI-native products**. I design payment automation, event-driven microservices, RESTful APIs and secure auth (JWT, OAuth 2.0) on cloud-native AWS infrastructure, and I own the full stack end-to-end when a project needs it.
 
 - 💼 **SDE-1 @ [Fortune Ai Technology](#)** — payment automation & fintech platforms
 - 🤖 Previously built the core backend of **[Greta](https://www.greta.sh/)**, an AI no-code platform that turns prompts into full-stack apps
